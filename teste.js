@@ -16,11 +16,11 @@ class Carro{
 
 const gol = new Carro("carro", 5);
 
-class Animal{
-    constructor(tio, patas){
-        this.tipo = tipo;
-        this.patas = patas;
-    }
-}
+// class Animal{
+//     constructor(tio, patas){
+//         this.tipo = tipo;
+//         this.patas = patas;
+//     }
+// }
 
-const cachorro = new Animal("mamifero", 4);
+// const cachorro = new Animal("mamifero", 4);
